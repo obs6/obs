@@ -13,9 +13,3 @@ function(){
 }
 
 
-阿斯顿发
-function(){
-	var $adaf=32;
-	
-}
-
