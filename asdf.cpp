@@ -1,8 +1,9 @@
-﻿asdfa  //asdfasdf
-require('sto') //修改by YZ Lu 为了方便
+﻿asd  //asdfasdf
+require('so') //修改by YZ Lu 为了方便dafdsf
 
 
-//*asdfasd
+//*asdf    //*adfaljl
+
 
 
 #include<sto>
